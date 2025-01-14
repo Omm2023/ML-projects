@@ -1,4 +1,1 @@
-# NEW-INTRO
-
-This is Omm Chandan Rout
-The king
+Here we design various ML models for predictive analysis.
